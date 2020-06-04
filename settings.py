@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'tempest_search.urls'
+ROOT_URLCONF = 'urls'
 
 TEMPLATES = [
     {
